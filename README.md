@@ -1,5 +1,5 @@
 <h1>Hi, I'm Eric! <br/><a
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity portfoilo  Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
  
