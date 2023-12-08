@@ -1,7 +1,8 @@
 <h1>Hi, I'm Eric! <br/><a
 <h2>👨‍💻 Cybersecurity portfoilo  Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Access and Control  (AlgoExpert)</b>
+
  
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   
